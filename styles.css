@@ -1,0 +1,49 @@
+body {
+align-items: center;
+text-align: center;
+background-color: rgb(196, 219, 255);
+font-family: sans-serif;
+display: flex;
+}
+
+.general {
+
+background-color: aliceblue;
+width: 300px;
+border-radius: 1rem;
+}
+
+.imagen {
+width: 300px;
+border-radius: 1rem;
+}
+
+.contenido {
+text-align: center;
+}
+
+.descripcion {
+color: rgb(94, 94, 94);
+}
+
+.precio {
+display: flex;
+align-items: center;
+background-color: rgb(218, 237, 253);
+}
+
+.change {
+    color: rgb(60, 0, 226);
+}
+
+.proceed{
+background-color: rgb(60, 0, 226);
+color: aliceblue;
+border-radius: 1rem;
+}
+
+
+.cancel{
+color: rgb(155, 169, 182);
+
+}
